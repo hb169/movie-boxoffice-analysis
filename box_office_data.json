@@ -1,0 +1,2992 @@
+[
+  {
+    "rank": 1,
+    "title": "哪吒之魔童闹海",
+    "release_date": "2025-01-29",
+    "year": 2025,
+    "box_office_wan": 1544614.84,
+    "box_office_yi": 154.46,
+    "avg_ticket_price": 47.64,
+    "avg_audience_per_screen": 23.0
+  },
+  {
+    "rank": 2,
+    "title": "长津湖",
+    "release_date": "2021-09-30",
+    "year": 2021,
+    "box_office_wan": 577534.47,
+    "box_office_yi": 57.75,
+    "avg_ticket_price": 46.38,
+    "avg_audience_per_screen": 21.0
+  },
+  {
+    "rank": 3,
+    "title": "战狼2",
+    "release_date": "2017-07-27",
+    "year": 2017,
+    "box_office_wan": 569454.71,
+    "box_office_yi": 56.95,
+    "avg_ticket_price": 35.59,
+    "avg_audience_per_screen": 37.0
+  },
+  {
+    "rank": 4,
+    "title": "你好，李焕英",
+    "release_date": "2021-02-12",
+    "year": 2021,
+    "box_office_wan": 541320.13,
+    "box_office_yi": 54.13,
+    "avg_ticket_price": 44.76,
+    "avg_audience_per_screen": 24.0
+  },
+  {
+    "rank": 5,
+    "title": "哪吒之魔童降世",
+    "release_date": "2019-07-26",
+    "year": 2019,
+    "box_office_wan": 503571.23,
+    "box_office_yi": 50.36,
+    "avg_ticket_price": 35.69,
+    "avg_audience_per_screen": 23.0
+  },
+  {
+    "rank": 6,
+    "title": "流浪地球",
+    "release_date": "2019-02-05",
+    "year": 2019,
+    "box_office_wan": 468777.21,
+    "box_office_yi": 46.88,
+    "avg_ticket_price": 44.6,
+    "avg_audience_per_screen": 28.0
+  },
+  {
+    "rank": 7,
+    "title": "疯狂动物城2",
+    "release_date": "2025-11-26",
+    "year": 2025,
+    "box_office_wan": 459448.88,
+    "box_office_yi": 45.94,
+    "avg_ticket_price": 39.47,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 8,
+    "title": "满江红",
+    "release_date": "2023-01-22",
+    "year": 2023,
+    "box_office_wan": 454443.95,
+    "box_office_yi": 45.44,
+    "avg_ticket_price": 49.51,
+    "avg_audience_per_screen": 23.0
+  },
+  {
+    "rank": 9,
+    "title": "唐人街探案3",
+    "release_date": "2021-02-12",
+    "year": 2021,
+    "box_office_wan": 452354.16,
+    "box_office_yi": 45.24,
+    "avg_ticket_price": 47.6,
+    "avg_audience_per_screen": 29.0
+  },
+  {
+    "rank": 10,
+    "title": "飞驰人生3",
+    "release_date": "2026-02-17",
+    "year": 2026,
+    "box_office_wan": 442088.95,
+    "box_office_yi": 44.21,
+    "avg_ticket_price": 46.76,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 11,
+    "title": "复仇者联盟4：终局之战",
+    "release_date": "2019-04-24",
+    "year": 2019,
+    "box_office_wan": 425013.22,
+    "box_office_yi": 42.5,
+    "avg_ticket_price": 48.96,
+    "avg_audience_per_screen": 22.0
+  },
+  {
+    "rank": 12,
+    "title": "长津湖之水门桥",
+    "release_date": "2022-02-01",
+    "year": 2022,
+    "box_office_wan": 406745.22,
+    "box_office_yi": 40.67,
+    "avg_ticket_price": 49.29,
+    "avg_audience_per_screen": 19.0
+  },
+  {
+    "rank": 13,
+    "title": "流浪地球2",
+    "release_date": "2023-01-22",
+    "year": 2023,
+    "box_office_wan": 404376.85,
+    "box_office_yi": 40.44,
+    "avg_ticket_price": 50.77,
+    "avg_audience_per_screen": 20.0
+  },
+  {
+    "rank": 14,
+    "title": "孤注一掷",
+    "release_date": "2023-08-08",
+    "year": 2023,
+    "box_office_wan": 384983.59,
+    "box_office_yi": 38.5,
+    "avg_ticket_price": 41.42,
+    "avg_audience_per_screen": 17.0
+  },
+  {
+    "rank": 15,
+    "title": "红海行动",
+    "release_date": "2018-02-16",
+    "year": 2018,
+    "box_office_wan": 365282.16,
+    "box_office_yi": 36.53,
+    "avg_ticket_price": 39.28,
+    "avg_audience_per_screen": 32.0
+  },
+  {
+    "rank": 16,
+    "title": "唐探1900",
+    "release_date": "2025-01-29",
+    "year": 2025,
+    "box_office_wan": 361250.86,
+    "box_office_yi": 36.13,
+    "avg_ticket_price": 48.67,
+    "avg_audience_per_screen": 18.0
+  },
+  {
+    "rank": 17,
+    "title": "消失的她",
+    "release_date": "2023-06-22",
+    "year": 2023,
+    "box_office_wan": 352397.78,
+    "box_office_yi": 35.24,
+    "avg_ticket_price": 41.53,
+    "avg_audience_per_screen": 21.0
+  },
+  {
+    "rank": 18,
+    "title": "热辣滚烫",
+    "release_date": "2024-02-10",
+    "year": 2024,
+    "box_office_wan": 341757.0,
+    "box_office_yi": 34.18,
+    "avg_ticket_price": 48.02,
+    "avg_audience_per_screen": 21.0
+  },
+  {
+    "rank": 19,
+    "title": "唐人街探案2",
+    "release_date": "2018-02-16",
+    "year": 2018,
+    "box_office_wan": 339794.27,
+    "box_office_yi": 33.98,
+    "avg_ticket_price": 38.76,
+    "avg_audience_per_screen": 38.0
+  },
+  {
+    "rank": 20,
+    "title": "飞驰人生2",
+    "release_date": "2024-02-10",
+    "year": 2024,
+    "box_office_wan": 336117.53,
+    "box_office_yi": 33.61,
+    "avg_ticket_price": 48.02,
+    "avg_audience_per_screen": 19.0
+  },
+  {
+    "rank": 21,
+    "title": "抓娃娃",
+    "release_date": "2024-07-16",
+    "year": 2024,
+    "box_office_wan": 332752.17,
+    "box_office_yi": 33.28,
+    "avg_ticket_price": 41.38,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 22,
+    "title": "我和我的祖国",
+    "release_date": "2019-09-30",
+    "year": 2019,
+    "box_office_wan": 317115.86,
+    "box_office_yi": 31.71,
+    "avg_ticket_price": 38.12,
+    "avg_audience_per_screen": 34.0
+  },
+  {
+    "rank": 23,
+    "title": "八佰",
+    "release_date": "2020-08-21",
+    "year": 2020,
+    "box_office_wan": 311056.58,
+    "box_office_yi": 31.11,
+    "avg_ticket_price": 38.34,
+    "avg_audience_per_screen": 19.0
+  },
+  {
+    "rank": 24,
+    "title": "独行月球",
+    "release_date": "2022-07-29",
+    "year": 2022,
+    "box_office_wan": 310311.84,
+    "box_office_yi": 31.03,
+    "avg_ticket_price": 41.61,
+    "avg_audience_per_screen": 12.0
+  },
+  {
+    "rank": 25,
+    "title": "我不是药神",
+    "release_date": "2018-07-05",
+    "year": 2018,
+    "box_office_wan": 310008.68,
+    "box_office_yi": 31.0,
+    "avg_ticket_price": 34.81,
+    "avg_audience_per_screen": 26.0
+  },
+  {
+    "rank": 26,
+    "title": "南京照相馆",
+    "release_date": "2025-07-25",
+    "year": 2025,
+    "box_office_wan": 301739.12,
+    "box_office_yi": 30.17,
+    "avg_ticket_price": 35.49,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 27,
+    "title": "中国机长",
+    "release_date": "2019-09-30",
+    "year": 2019,
+    "box_office_wan": 291317.81,
+    "box_office_yi": 29.13,
+    "avg_ticket_price": 37.43,
+    "avg_audience_per_screen": 25.0
+  },
+  {
+    "rank": 28,
+    "title": "我和我的家乡",
+    "release_date": "2020-10-01",
+    "year": 2020,
+    "box_office_wan": 282982.9,
+    "box_office_yi": 28.3,
+    "avg_ticket_price": 38.76,
+    "avg_audience_per_screen": 18.0
+  },
+  {
+    "rank": 29,
+    "title": "速度与激情8",
+    "release_date": "2017-04-14",
+    "year": 2017,
+    "box_office_wan": 267106.33,
+    "box_office_yi": 26.71,
+    "avg_ticket_price": 36.65,
+    "avg_audience_per_screen": 29.0
+  },
+  {
+    "rank": 30,
+    "title": "封神第一部：朝歌风云",
+    "release_date": "2023-07-20",
+    "year": 2023,
+    "box_office_wan": 263649.47,
+    "box_office_yi": 26.36,
+    "avg_ticket_price": 43.44,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 31,
+    "title": "这个杀手不太冷静",
+    "release_date": "2022-02-01",
+    "year": 2022,
+    "box_office_wan": 262799.95,
+    "box_office_yi": 26.28,
+    "avg_ticket_price": 48.19,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 32,
+    "title": "西虹市首富",
+    "release_date": "2018-07-27",
+    "year": 2018,
+    "box_office_wan": 254784.23,
+    "box_office_yi": 25.48,
+    "avg_ticket_price": 35.06,
+    "avg_audience_per_screen": 27.0
+  },
+  {
+    "rank": 33,
+    "title": "第二十条",
+    "release_date": "2024-02-10",
+    "year": 2024,
+    "box_office_wan": 242941.62,
+    "box_office_yi": 24.29,
+    "avg_ticket_price": 46.31,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 34,
+    "title": "复仇者联盟3：无限战争",
+    "release_date": "2018-05-11",
+    "year": 2018,
+    "box_office_wan": 239054.99,
+    "box_office_yi": 23.91,
+    "avg_ticket_price": 38.24,
+    "avg_audience_per_screen": 19.0
+  },
+  {
+    "rank": 35,
+    "title": "捉妖记2",
+    "release_date": "2018-02-16",
+    "year": 2018,
+    "box_office_wan": 223729.4,
+    "box_office_yi": 22.37,
+    "avg_ticket_price": 38.31,
+    "avg_audience_per_screen": 43.0
+  },
+  {
+    "rank": 36,
+    "title": "疯狂的外星人",
+    "release_date": "2019-02-05",
+    "year": 2019,
+    "box_office_wan": 221399.06,
+    "box_office_yi": 22.14,
+    "avg_ticket_price": 42.0,
+    "avg_audience_per_screen": 29.0
+  },
+  {
+    "rank": 37,
+    "title": "羞羞的铁拳",
+    "release_date": "2017-09-30",
+    "year": 2017,
+    "box_office_wan": 221364.84,
+    "box_office_yi": 22.14,
+    "avg_ticket_price": 33.4,
+    "avg_audience_per_screen": 25.0
+  },
+  {
+    "rank": 38,
+    "title": "八角笼中",
+    "release_date": "2023-07-06",
+    "year": 2023,
+    "box_office_wan": 220739.61,
+    "box_office_yi": 22.07,
+    "avg_ticket_price": 40.71,
+    "avg_audience_per_screen": 17.0
+  },
+  {
+    "rank": 39,
+    "title": "海王",
+    "release_date": "2018-12-07",
+    "year": 2018,
+    "box_office_wan": 201331.33,
+    "box_office_yi": 20.13,
+    "avg_ticket_price": 36.36,
+    "avg_audience_per_screen": 17.0
+  },
+  {
+    "rank": 40,
+    "title": "熊出没·逆转时空",
+    "release_date": "2024-02-10",
+    "year": 2024,
+    "box_office_wan": 198405.78,
+    "box_office_yi": 19.84,
+    "avg_ticket_price": 45.99,
+    "avg_audience_per_screen": 21.0
+  },
+  {
+    "rank": 4173,
+    "title": "1",
+    "release_date": "2025-09-18",
+    "year": 2025,
+    "box_office_wan": 194349.82,
+    "box_office_yi": 19.43,
+    "avg_ticket_price": 35.63,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 42,
+    "title": "前任3：再见前任",
+    "release_date": "2017-12-29",
+    "year": 2017,
+    "box_office_wan": 194201.47,
+    "box_office_yi": 19.42,
+    "avg_ticket_price": 35.06,
+    "avg_audience_per_screen": 28.0
+  },
+  {
+    "rank": 43,
+    "title": "给阿嬷的情书",
+    "release_date": "2026-04-30",
+    "year": 2026,
+    "box_office_wan": 192888.32,
+    "box_office_yi": 19.29,
+    "avg_ticket_price": 34.1,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 44,
+    "title": "毒液",
+    "release_date": "2018-11-09",
+    "year": 2018,
+    "box_office_wan": 187108.43,
+    "box_office_yi": 18.71,
+    "avg_ticket_price": 35.51,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 45,
+    "title": "长安三万里",
+    "release_date": "2023-07-08",
+    "year": 2023,
+    "box_office_wan": 182446.04,
+    "box_office_yi": 18.24,
+    "avg_ticket_price": 41.32,
+    "avg_audience_per_screen": 18.0
+  },
+  {
+    "rank": 46,
+    "title": "功夫瑜伽",
+    "release_date": "2017-01-28",
+    "year": 2017,
+    "box_office_wan": 175260.79,
+    "box_office_yi": 17.53,
+    "avg_ticket_price": 38.18,
+    "avg_audience_per_screen": 33.0
+  },
+  {
+    "rank": 47,
+    "title": "飞驰人生",
+    "release_date": "2019-02-05",
+    "year": 2019,
+    "box_office_wan": 172843.25,
+    "box_office_yi": 17.28,
+    "avg_ticket_price": 41.69,
+    "avg_audience_per_screen": 25.0
+  },
+  {
+    "rank": 48,
+    "title": "浪浪山小妖怪",
+    "release_date": "2025-08-02",
+    "year": 2025,
+    "box_office_wan": 171922.35,
+    "box_office_yi": 17.19,
+    "avg_ticket_price": 36.18,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 49,
+    "title": "人生大事",
+    "release_date": "2022-06-24",
+    "year": 2022,
+    "box_office_wan": 171390.7,
+    "box_office_yi": 17.14,
+    "avg_ticket_price": 40.26,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 50,
+    "title": "烈火英雄",
+    "release_date": "2019-08-01",
+    "year": 2019,
+    "box_office_wan": 170685.4,
+    "box_office_yi": 17.07,
+    "avg_ticket_price": 35.9,
+    "avg_audience_per_screen": 18.0
+  },
+  {
+    "rank": 51,
+    "title": "阿凡达：水之道",
+    "release_date": "2022-12-16",
+    "year": 2022,
+    "box_office_wan": 170376.21,
+    "box_office_yi": 17.04,
+    "avg_ticket_price": 50.17,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 52,
+    "title": "侏罗纪世界2",
+    "release_date": "2018-06-15",
+    "year": 2018,
+    "box_office_wan": 169590.31,
+    "box_office_yi": 16.96,
+    "avg_ticket_price": 35.7,
+    "avg_audience_per_screen": 19.0
+  },
+  {
+    "rank": 53,
+    "title": "西游伏妖篇",
+    "release_date": "2017-01-28",
+    "year": 2017,
+    "box_office_wan": 165593.41,
+    "box_office_yi": 16.56,
+    "avg_ticket_price": 39.15,
+    "avg_audience_per_screen": 35.0
+  },
+  {
+    "rank": 54,
+    "title": "姜子牙",
+    "release_date": "2020-10-01",
+    "year": 2020,
+    "box_office_wan": 160293.36,
+    "box_office_yi": 16.03,
+    "avg_ticket_price": 39.79,
+    "avg_audience_per_screen": 19.0
+  },
+  {
+    "rank": 55,
+    "title": "万里归途",
+    "release_date": "2022-09-30",
+    "year": 2022,
+    "box_office_wan": 159324.87,
+    "box_office_yi": 15.93,
+    "avg_ticket_price": 41.96,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 56,
+    "title": "少年的你",
+    "release_date": "2019-10-25",
+    "year": 2019,
+    "box_office_wan": 155840.0,
+    "box_office_yi": 15.58,
+    "avg_ticket_price": 36.23,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 57,
+    "title": "变形金刚5：最后的骑士",
+    "release_date": "2017-06-23",
+    "year": 2017,
+    "box_office_wan": 155126.02,
+    "box_office_yi": 15.51,
+    "avg_ticket_price": 36.94,
+    "avg_audience_per_screen": 22.0
+  },
+  {
+    "rank": 58,
+    "title": "熊出没·伴我“熊芯”",
+    "release_date": "2023-01-22",
+    "year": 2023,
+    "box_office_wan": 149524.27,
+    "box_office_yi": 14.95,
+    "avg_ticket_price": 46.3,
+    "avg_audience_per_screen": 19.0
+  },
+  {
+    "rank": 59,
+    "title": "我和我的父辈",
+    "release_date": "2021-09-30",
+    "year": 2021,
+    "box_office_wan": 147726.68,
+    "box_office_yi": 14.77,
+    "avg_ticket_price": 43.46,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 60,
+    "title": "镖人：风起大漠",
+    "release_date": "2026-02-17",
+    "year": 2026,
+    "box_office_wan": 144846.35,
+    "box_office_yi": 14.48,
+    "avg_ticket_price": 46.09,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 61,
+    "title": "速度与激情：特别行动",
+    "release_date": "2019-08-23",
+    "year": 2019,
+    "box_office_wan": 143495.1,
+    "box_office_yi": 14.35,
+    "avg_ticket_price": 35.67,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 62,
+    "title": "送你一朵小红花",
+    "release_date": "2020-12-31",
+    "year": 2020,
+    "box_office_wan": 143274.96,
+    "box_office_yi": 14.33,
+    "avg_ticket_price": 37.27,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 63,
+    "title": "芳华",
+    "release_date": "2017-12-15",
+    "year": 2017,
+    "box_office_wan": 142298.75,
+    "box_office_yi": 14.23,
+    "avg_ticket_price": 34.23,
+    "avg_audience_per_screen": 24.0
+  },
+  {
+    "rank": 64,
+    "title": "蜘蛛侠：英雄远征",
+    "release_date": "2019-06-28",
+    "year": 2019,
+    "box_office_wan": 141770.96,
+    "box_office_yi": 14.18,
+    "avg_ticket_price": 35.9,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 65,
+    "title": "头号玩家",
+    "release_date": "2018-03-30",
+    "year": 2018,
+    "box_office_wan": 139713.91,
+    "box_office_yi": 13.97,
+    "avg_ticket_price": 36.41,
+    "avg_audience_per_screen": 17.0
+  },
+  {
+    "rank": 66,
+    "title": "速度与激情9",
+    "release_date": "2021-05-21",
+    "year": 2021,
+    "box_office_wan": 139225.54,
+    "box_office_yi": 13.92,
+    "avg_ticket_price": 39.29,
+    "avg_audience_per_screen": 12.0
+  },
+  {
+    "rank": 67,
+    "title": "奇迹·笨小孩",
+    "release_date": "2022-02-01",
+    "year": 2022,
+    "box_office_wan": 137937.04,
+    "box_office_yi": 13.79,
+    "avg_ticket_price": 46.26,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 68,
+    "title": "惊蛰无声",
+    "release_date": "2026-02-17",
+    "year": 2026,
+    "box_office_wan": 136573.3,
+    "box_office_yi": 13.66,
+    "avg_ticket_price": 45.72,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 69,
+    "title": "后来的我们",
+    "release_date": "2018-04-28",
+    "year": 2018,
+    "box_office_wan": 136154.86,
+    "box_office_yi": 13.62,
+    "avg_ticket_price": 33.9,
+    "avg_audience_per_screen": 20.0
+  },
+  {
+    "rank": 70,
+    "title": "一出好戏",
+    "release_date": "2018-08-10",
+    "year": 2018,
+    "box_office_wan": 135519.63,
+    "box_office_yi": 13.55,
+    "avg_ticket_price": 34.71,
+    "avg_audience_per_screen": 25.0
+  },
+  {
+    "rank": 71,
+    "title": "坚如磐石",
+    "release_date": "2023-09-28",
+    "year": 2023,
+    "box_office_wan": 135165.2,
+    "box_office_yi": 13.52,
+    "avg_ticket_price": 42.9,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 72,
+    "title": "默杀",
+    "release_date": "2024-07-03",
+    "year": 2024,
+    "box_office_wan": 135130.84,
+    "box_office_yi": 13.51,
+    "avg_ticket_price": 41.19,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 73,
+    "title": "误杀",
+    "release_date": "2019-12-13",
+    "year": 2019,
+    "box_office_wan": 133336.28,
+    "box_office_yi": 13.33,
+    "avg_ticket_price": 33.16,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 74,
+    "title": "怒火·重案",
+    "release_date": "2021-07-30",
+    "year": 2021,
+    "box_office_wan": 132935.5,
+    "box_office_yi": 13.29,
+    "avg_ticket_price": 38.7,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 75,
+    "title": "中国医生",
+    "release_date": "2021-07-09",
+    "year": 2021,
+    "box_office_wan": 132886.4,
+    "box_office_yi": 13.29,
+    "avg_ticket_price": 36.34,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 76,
+    "title": "拆弹专家2",
+    "release_date": "2020-12-24",
+    "year": 2020,
+    "box_office_wan": 131606.81,
+    "box_office_yi": 13.16,
+    "avg_ticket_price": 38.65,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 77,
+    "title": "扫毒2天地对决",
+    "release_date": "2019-07-05",
+    "year": 2019,
+    "box_office_wan": 131290.29,
+    "box_office_yi": 13.13,
+    "avg_ticket_price": 36.36,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 78,
+    "title": "摔跤吧！爸爸",
+    "release_date": "2017-05-05",
+    "year": 2017,
+    "box_office_wan": 129932.18,
+    "box_office_yi": 12.99,
+    "avg_ticket_price": 30.07,
+    "avg_audience_per_screen": 22.0
+  },
+  {
+    "rank": 79,
+    "title": "年会不能停！",
+    "release_date": "2023-12-29",
+    "year": 2023,
+    "box_office_wan": 129270.15,
+    "box_office_yi": 12.93,
+    "avg_ticket_price": 39.35,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 80,
+    "title": "无双",
+    "release_date": "2018-09-30",
+    "year": 2018,
+    "box_office_wan": 127401.14,
+    "box_office_yi": 12.74,
+    "avg_ticket_price": 35.56,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 81,
+    "title": "捕风追影",
+    "release_date": "2025-08-16",
+    "year": 2025,
+    "box_office_wan": 126579.22,
+    "box_office_yi": 12.66,
+    "avg_ticket_price": 37.11,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 82,
+    "title": "碟中谍6：全面瓦解",
+    "release_date": "2018-08-31",
+    "year": 2018,
+    "box_office_wan": 124579.57,
+    "box_office_yi": 12.46,
+    "avg_ticket_price": 36.83,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 83,
+    "title": "封神第二部：战火西岐",
+    "release_date": "2025-01-29",
+    "year": 2025,
+    "box_office_wan": 123887.99,
+    "box_office_yi": 12.39,
+    "avg_ticket_price": 51.45,
+    "avg_audience_per_screen": 19.0
+  },
+  {
+    "rank": 84,
+    "title": "哥斯拉大战金刚",
+    "release_date": "2021-03-26",
+    "year": 2021,
+    "box_office_wan": 123265.15,
+    "box_office_yi": 12.33,
+    "avg_ticket_price": 37.44,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 85,
+    "title": "寻梦环游记",
+    "release_date": "2017-11-24",
+    "year": 2017,
+    "box_office_wan": 123007.71,
+    "box_office_yi": 12.3,
+    "avg_ticket_price": 33.49,
+    "avg_audience_per_screen": 17.0
+  },
+  {
+    "rank": 86,
+    "title": "志愿军：存亡之战",
+    "release_date": "2024-09-30",
+    "year": 2024,
+    "box_office_wan": 120699.78,
+    "box_office_yi": 12.07,
+    "avg_ticket_price": 41.34,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 87,
+    "title": "阿凡达：火与烬",
+    "release_date": "2025-12-19",
+    "year": 2025,
+    "box_office_wan": 120243.32,
+    "box_office_yi": 12.02,
+    "avg_ticket_price": 48.24,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 88,
+    "title": "悬崖之上",
+    "release_date": "2021-04-30",
+    "year": 2021,
+    "box_office_wan": 119151.98,
+    "box_office_yi": 11.92,
+    "avg_ticket_price": 38.57,
+    "avg_audience_per_screen": 12.0
+  },
+  {
+    "rank": 89,
+    "title": "人生路不熟",
+    "release_date": "2023-04-28",
+    "year": 2023,
+    "box_office_wan": 118485.84,
+    "box_office_yi": 11.85,
+    "avg_ticket_price": 41.49,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 90,
+    "title": "叶问4：完结篇",
+    "release_date": "2019-12-20",
+    "year": 2019,
+    "box_office_wan": 118180.88,
+    "box_office_yi": 11.82,
+    "avg_ticket_price": 35.42,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 91,
+    "title": "加勒比海盗5：死无对证",
+    "release_date": "2017-05-26",
+    "year": 2017,
+    "box_office_wan": 118008.88,
+    "box_office_yi": 11.8,
+    "avg_ticket_price": 35.81,
+    "avg_audience_per_screen": 21.0
+  },
+  {
+    "rank": 92,
+    "title": "金刚：骷髅岛",
+    "release_date": "2017-03-24",
+    "year": 2017,
+    "box_office_wan": 116050.36,
+    "box_office_yi": 11.61,
+    "avg_ticket_price": 35.15,
+    "avg_audience_per_screen": 20.0
+  },
+  {
+    "rank": 93,
+    "title": "大黄蜂",
+    "release_date": "2019-01-04",
+    "year": 2019,
+    "box_office_wan": 114975.24,
+    "box_office_yi": 11.5,
+    "avg_ticket_price": 35.91,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 94,
+    "title": "极限特工：终极回归",
+    "release_date": "2017-02-10",
+    "year": 2017,
+    "box_office_wan": 112741.79,
+    "box_office_yi": 11.27,
+    "avg_ticket_price": 36.21,
+    "avg_audience_per_screen": 22.0
+  },
+  {
+    "rank": 95,
+    "title": "金刚川",
+    "release_date": "2020-10-23",
+    "year": 2020,
+    "box_office_wan": 112701.92,
+    "box_office_yi": 11.27,
+    "avg_ticket_price": 36.99,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 96,
+    "title": "误杀II",
+    "release_date": "2021-12-17",
+    "year": 2021,
+    "box_office_wan": 112143.25,
+    "box_office_yi": 11.21,
+    "avg_ticket_price": 39.26,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 97,
+    "title": "生化危机：终章",
+    "release_date": "2017-02-24",
+    "year": 2017,
+    "box_office_wan": 111181.82,
+    "box_office_yi": 11.12,
+    "avg_ticket_price": 34.69,
+    "avg_audience_per_screen": 20.0
+  },
+  {
+    "rank": 98,
+    "title": "攀登者",
+    "release_date": "2019-09-30",
+    "year": 2019,
+    "box_office_wan": 110435.32,
+    "box_office_yi": 11.04,
+    "avg_ticket_price": 36.99,
+    "avg_audience_per_screen": 20.0
+  },
+  {
+    "rank": 99,
+    "title": "熊出没·年年有熊",
+    "release_date": "2026-02-17",
+    "year": 2026,
+    "box_office_wan": 106726.23,
+    "box_office_yi": 10.67,
+    "avg_ticket_price": 44.71,
+    "avg_audience_per_screen": 12.0
+  },
+  {
+    "rank": 100,
+    "title": "侏罗纪世界3",
+    "release_date": "2022-06-10",
+    "year": 2022,
+    "box_office_wan": 105968.95,
+    "box_office_yi": 10.6,
+    "avg_ticket_price": 35.56,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 101,
+    "title": "巨齿鲨",
+    "release_date": "2018-08-10",
+    "year": 2018,
+    "box_office_wan": 105383.19,
+    "box_office_yi": 10.54,
+    "avg_ticket_price": 38.29,
+    "avg_audience_per_screen": 21.0
+  },
+  {
+    "rank": 102,
+    "title": "乘风破浪",
+    "release_date": "2017-01-28",
+    "year": 2017,
+    "box_office_wan": 104852.72,
+    "box_office_yi": 10.49,
+    "avg_ticket_price": 36.31,
+    "avg_audience_per_screen": 27.0
+  },
+  {
+    "rank": 103,
+    "title": "神偷奶爸3",
+    "release_date": "2017-07-07",
+    "year": 2017,
+    "box_office_wan": 103791.4,
+    "box_office_yi": 10.38,
+    "avg_ticket_price": 34.06,
+    "avg_audience_per_screen": 20.0
+  },
+  {
+    "rank": 104,
+    "title": "惊奇队长",
+    "release_date": "2019-03-08",
+    "year": 2019,
+    "box_office_wan": 103520.9,
+    "box_office_yi": 10.35,
+    "avg_ticket_price": 37.18,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 105,
+    "title": "刺杀小说家",
+    "release_date": "2021-02-12",
+    "year": 2021,
+    "box_office_wan": 103520.32,
+    "box_office_yi": 10.35,
+    "avg_ticket_price": 47.27,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 106,
+    "title": "前任4：英年早婚",
+    "release_date": "2023-09-28",
+    "year": 2023,
+    "box_office_wan": 101231.37,
+    "box_office_yi": 10.12,
+    "avg_ticket_price": 42.33,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 107,
+    "title": "狂暴巨兽",
+    "release_date": "2018-04-13",
+    "year": 2018,
+    "box_office_wan": 100396.64,
+    "box_office_yi": 10.04,
+    "avg_ticket_price": 34.82,
+    "avg_audience_per_screen": 13.0
+  },
+  {
+    "rank": 108,
+    "title": "速度与激情10",
+    "release_date": "2023-05-17",
+    "year": 2023,
+    "box_office_wan": 98475.99,
+    "box_office_yi": 9.85,
+    "avg_ticket_price": 37.63,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 109,
+    "title": "熊出没·重返地球",
+    "release_date": "2022-02-01",
+    "year": 2022,
+    "box_office_wan": 97772.0,
+    "box_office_yi": 9.78,
+    "avg_ticket_price": 46.64,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 110,
+    "title": "比悲伤更悲伤的故事",
+    "release_date": "2019-03-14",
+    "year": 2019,
+    "box_office_wan": 95850.13,
+    "box_office_yi": 9.59,
+    "avg_ticket_price": 30.74,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 111,
+    "title": "哥斯拉大战金刚2：帝国崛起",
+    "release_date": "2024-03-29",
+    "year": 2024,
+    "box_office_wan": 95694.61,
+    "box_office_yi": 9.57,
+    "avg_ticket_price": 42.8,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 112,
+    "title": "无名",
+    "release_date": "2023-01-22",
+    "year": 2023,
+    "box_office_wan": 94307.96,
+    "box_office_yi": 9.43,
+    "avg_ticket_price": 52.31,
+    "avg_audience_per_screen": 17.0
+  },
+  {
+    "rank": 113,
+    "title": "哥斯拉2：怪兽之王",
+    "release_date": "2019-05-31",
+    "year": 2019,
+    "box_office_wan": 93740.28,
+    "box_office_yi": 9.37,
+    "avg_ticket_price": 36.07,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 114,
+    "title": "穿过寒冬拥抱你",
+    "release_date": "2021-12-31",
+    "year": 2021,
+    "box_office_wan": 93684.89,
+    "box_office_yi": 9.37,
+    "avg_ticket_price": 42.43,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 115,
+    "title": "热烈",
+    "release_date": "2023-07-28",
+    "year": 2023,
+    "box_office_wan": 93360.61,
+    "box_office_yi": 9.34,
+    "avg_ticket_price": 41.33,
+    "avg_audience_per_screen": 13.0
+  },
+  {
+    "rank": 116,
+    "title": "误杀3",
+    "release_date": "2024-12-28",
+    "year": 2024,
+    "box_office_wan": 93332.88,
+    "box_office_yi": 9.33,
+    "avg_ticket_price": 42.01,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 117,
+    "title": "扬名立万",
+    "release_date": "2021-11-11",
+    "year": 2021,
+    "box_office_wan": 92669.23,
+    "box_office_yi": 9.27,
+    "avg_ticket_price": 38.03,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 118,
+    "title": "深海",
+    "release_date": "2023-01-22",
+    "year": 2023,
+    "box_office_wan": 91952.7,
+    "box_office_yi": 9.2,
+    "avg_ticket_price": 46.55,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 119,
+    "title": "超时空同居",
+    "release_date": "2018-05-18",
+    "year": 2018,
+    "box_office_wan": 90311.19,
+    "box_office_yi": 9.03,
+    "avg_ticket_price": 33.01,
+    "avg_audience_per_screen": 12.0
+  },
+  {
+    "rank": 120,
+    "title": "阿丽塔：战斗天使",
+    "release_date": "2019-02-22",
+    "year": 2019,
+    "box_office_wan": 89695.95,
+    "box_office_yi": 8.97,
+    "avg_ticket_price": 37.83,
+    "avg_audience_per_screen": 13.0
+  },
+  {
+    "rank": 121,
+    "title": "银河补习班",
+    "release_date": "2019-07-18",
+    "year": 2019,
+    "box_office_wan": 87832.07,
+    "box_office_yi": 8.78,
+    "avg_ticket_price": 34.11,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 122,
+    "title": "志愿军：雄兵出击",
+    "release_date": "2023-09-28",
+    "year": 2023,
+    "box_office_wan": 86893.48,
+    "box_office_yi": 8.69,
+    "avg_ticket_price": 42.23,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 123,
+    "title": "温暖的抱抱",
+    "release_date": "2020-12-31",
+    "year": 2020,
+    "box_office_wan": 86417.08,
+    "box_office_yi": 8.64,
+    "avg_ticket_price": 37.13,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 124,
+    "title": "冰雪奇缘2",
+    "release_date": "2019-11-22",
+    "year": 2019,
+    "box_office_wan": 86104.88,
+    "box_office_yi": 8.61,
+    "avg_ticket_price": 34.39,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 125,
+    "title": "我的姐姐",
+    "release_date": "2021-04-02",
+    "year": 2021,
+    "box_office_wan": 86024.63,
+    "box_office_yi": 8.6,
+    "avg_ticket_price": 36.8,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 126,
+    "title": "长空之王",
+    "release_date": "2023-04-28",
+    "year": 2023,
+    "box_office_wan": 85450.82,
+    "box_office_yi": 8.55,
+    "avg_ticket_price": 41.84,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 127,
+    "title": "巨齿鲨2",
+    "release_date": "2023-08-04",
+    "year": 2023,
+    "box_office_wan": 85135.73,
+    "box_office_yi": 8.51,
+    "avg_ticket_price": 42.34,
+    "avg_audience_per_screen": 13.0
+  },
+  {
+    "rank": 128,
+    "title": "夺冠",
+    "release_date": "2020-09-25",
+    "year": 2020,
+    "box_office_wan": 83667.68,
+    "box_office_yi": 8.37,
+    "avg_ticket_price": 38.81,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 129,
+    "title": "狮子王",
+    "release_date": "2019-07-12",
+    "year": 2019,
+    "box_office_wan": 83387.35,
+    "box_office_yi": 8.34,
+    "avg_ticket_price": 35.99,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 130,
+    "title": "蚁人2：黄蜂女现身",
+    "release_date": "2018-08-24",
+    "year": 2018,
+    "box_office_wan": 83195.34,
+    "box_office_yi": 8.32,
+    "avg_ticket_price": 36.06,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 131,
+    "title": "你的婚礼",
+    "release_date": "2021-04-30",
+    "year": 2021,
+    "box_office_wan": 82278.0,
+    "box_office_yi": 8.23,
+    "avg_ticket_price": 37.59,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 132,
+    "title": "熊出没·重启未来",
+    "release_date": "2025-01-29",
+    "year": 2025,
+    "box_office_wan": 82165.76,
+    "box_office_yi": 8.22,
+    "avg_ticket_price": 46.72,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 133,
+    "title": "铃芽之旅",
+    "release_date": "2023-03-24",
+    "year": 2023,
+    "box_office_wan": 80790.24,
+    "box_office_yi": 8.08,
+    "avg_ticket_price": 33.22,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 134,
+    "title": "反贪风暴4",
+    "release_date": "2019-04-04",
+    "year": 2019,
+    "box_office_wan": 79904.44,
+    "box_office_yi": 7.99,
+    "avg_ticket_price": 34.99,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 135,
+    "title": "无名之辈",
+    "release_date": "2018-11-16",
+    "year": 2018,
+    "box_office_wan": 79466.13,
+    "box_office_yi": 7.95,
+    "avg_ticket_price": 34.6,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 136,
+    "title": "你想活出怎样的人生",
+    "release_date": "2024-04-03",
+    "year": 2024,
+    "box_office_wan": 79117.12,
+    "box_office_yi": 7.91,
+    "avg_ticket_price": 38.89,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 137,
+    "title": "异形：夺命舰",
+    "release_date": "2024-08-16",
+    "year": 2024,
+    "box_office_wan": 78637.83,
+    "box_office_yi": 7.86,
+    "avg_ticket_price": 40.56,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 138,
+    "title": "末路狂花钱",
+    "release_date": "2024-05-01",
+    "year": 2024,
+    "box_office_wan": 78181.41,
+    "box_office_yi": 7.82,
+    "avg_ticket_price": 40.08,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 139,
+    "title": "蜘蛛侠：英雄归来",
+    "release_date": "2017-09-08",
+    "year": 2017,
+    "box_office_wan": 77476.8,
+    "box_office_yi": 7.75,
+    "avg_ticket_price": 35.15,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 140,
+    "title": "小小的我",
+    "release_date": "2024-12-27",
+    "year": 2024,
+    "box_office_wan": 76590.45,
+    "box_office_yi": 7.66,
+    "avg_ticket_price": 40.19,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 141,
+    "title": "人潮汹涌",
+    "release_date": "2021-02-12",
+    "year": 2021,
+    "box_office_wan": 76237.09,
+    "box_office_yi": 7.62,
+    "avg_ticket_price": 41.32,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 142,
+    "title": "大闹天竺",
+    "release_date": "2017-01-28",
+    "year": 2017,
+    "box_office_wan": 75792.88,
+    "box_office_yi": 7.58,
+    "avg_ticket_price": 35.57,
+    "avg_audience_per_screen": 31.0
+  },
+  {
+    "rank": 143,
+    "title": "无问西东",
+    "release_date": "2018-01-12",
+    "year": 2018,
+    "box_office_wan": 75434.5,
+    "box_office_yi": 7.54,
+    "avg_ticket_price": 31.43,
+    "avg_audience_per_screen": 18.0
+  },
+  {
+    "rank": 144,
+    "title": "神秘巨星",
+    "release_date": "2018-01-19",
+    "year": 2018,
+    "box_office_wan": 74734.73,
+    "box_office_yi": 7.47,
+    "avg_ticket_price": 30.03,
+    "avg_audience_per_screen": 17.0
+  },
+  {
+    "rank": 145,
+    "title": "雷神3：诸神黄昏",
+    "release_date": "2017-11-03",
+    "year": 2017,
+    "box_office_wan": 74372.42,
+    "box_office_yi": 7.44,
+    "avg_ticket_price": 35.47,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 146,
+    "title": "猩球崛起3：终极之战",
+    "release_date": "2017-09-15",
+    "year": 2017,
+    "box_office_wan": 74050.59,
+    "box_office_yi": 7.41,
+    "avg_ticket_price": 34.97,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 147,
+    "title": "金刚狼3：殊死一战",
+    "release_date": "2017-03-03",
+    "year": 2017,
+    "box_office_wan": 73163.82,
+    "box_office_yi": 7.32,
+    "avg_ticket_price": 32.37,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 148,
+    "title": "西游记女儿国",
+    "release_date": "2018-02-16",
+    "year": 2018,
+    "box_office_wan": 72740.66,
+    "box_office_yi": 7.27,
+    "avg_ticket_price": 39.75,
+    "avg_audience_per_screen": 32.0
+  },
+  {
+    "rank": 149,
+    "title": "好东西",
+    "release_date": "2024-11-22",
+    "year": 2024,
+    "box_office_wan": 72146.15,
+    "box_office_yi": 7.21,
+    "avg_ticket_price": 42.18,
+    "avg_audience_per_screen": 5.0
+  },
+  {
+    "rank": 150,
+    "title": "熊出没·原始时代",
+    "release_date": "2019-02-05",
+    "year": 2019,
+    "box_office_wan": 71751.49,
+    "box_office_yi": 7.18,
+    "avg_ticket_price": 39.04,
+    "avg_audience_per_screen": 22.0
+  },
+  {
+    "rank": 151,
+    "title": "神探大战",
+    "release_date": "2022-07-08",
+    "year": 2022,
+    "box_office_wan": 71214.65,
+    "box_office_yi": 7.12,
+    "avg_ticket_price": 37.89,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 152,
+    "title": "三大队",
+    "release_date": "2023-12-15",
+    "year": 2023,
+    "box_office_wan": 70587.69,
+    "box_office_yi": 7.06,
+    "avg_ticket_price": 42.26,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 153,
+    "title": "一闪一闪亮星星",
+    "release_date": "2023-12-30",
+    "year": 2023,
+    "box_office_wan": 70240.0,
+    "box_office_yi": 7.02,
+    "avg_ticket_price": 42.0,
+    "avg_audience_per_screen": 12.0
+  },
+  {
+    "rank": 154,
+    "title": "使徒行者2谍影行动",
+    "release_date": "2019-08-07",
+    "year": 2019,
+    "box_office_wan": 70228.1,
+    "box_office_yi": 7.02,
+    "avg_ticket_price": 36.29,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 155,
+    "title": "保你平安",
+    "release_date": "2023-03-10",
+    "year": 2023,
+    "box_office_wan": 70079.29,
+    "box_office_yi": 7.01,
+    "avg_ticket_price": 41.81,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 156,
+    "title": "悟空传",
+    "release_date": "2017-07-13",
+    "year": 2017,
+    "box_office_wan": 69684.99,
+    "box_office_yi": 6.97,
+    "avg_ticket_price": 35.92,
+    "avg_audience_per_screen": 17.0
+  },
+  {
+    "rank": 157,
+    "title": "长安的荔枝",
+    "release_date": "2025-07-18",
+    "year": 2025,
+    "box_office_wan": 69121.05,
+    "box_office_yi": 6.91,
+    "avg_ticket_price": 37.56,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 158,
+    "title": "正义联盟",
+    "release_date": "2017-11-17",
+    "year": 2017,
+    "box_office_wan": 69058.38,
+    "box_office_yi": 6.91,
+    "avg_ticket_price": 35.48,
+    "avg_audience_per_screen": 13.0
+  },
+  {
+    "rank": 159,
+    "title": "射雕英雄传：侠之大者",
+    "release_date": "2025-01-29",
+    "year": 2025,
+    "box_office_wan": 68969.49,
+    "box_office_yi": 6.9,
+    "avg_ticket_price": 48.78,
+    "avg_audience_per_screen": 22.0
+  },
+  {
+    "rank": 160,
+    "title": "九龙城寨之围城",
+    "release_date": "2024-05-01",
+    "year": 2024,
+    "box_office_wan": 68642.5,
+    "box_office_yi": 6.86,
+    "avg_ticket_price": 41.02,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 161,
+    "title": "银河护卫队2",
+    "release_date": "2017-05-05",
+    "year": 2017,
+    "box_office_wan": 68615.37,
+    "box_office_yi": 6.86,
+    "avg_ticket_price": 37.27,
+    "avg_audience_per_screen": 17.0
+  },
+  {
+    "rank": 162,
+    "title": "毒液：最后一舞",
+    "release_date": "2024-10-23",
+    "year": 2024,
+    "box_office_wan": 68499.16,
+    "box_office_yi": 6.85,
+    "avg_ticket_price": 41.33,
+    "avg_audience_per_screen": 5.0
+  },
+  {
+    "rank": 163,
+    "title": "宠爱",
+    "release_date": "2019-12-31",
+    "year": 2019,
+    "box_office_wan": 68377.29,
+    "box_office_yi": 6.84,
+    "avg_ticket_price": 34.89,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 164,
+    "title": "明日战记",
+    "release_date": "2022-08-05",
+    "year": 2022,
+    "box_office_wan": 67946.57,
+    "box_office_yi": 6.79,
+    "avg_ticket_price": 41.26,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 165,
+    "title": "鬼灭之刃：无限城篇 第一章 猗窝座再袭",
+    "release_date": "2025-11-14",
+    "year": 2025,
+    "box_office_wan": 67808.15,
+    "box_office_yi": 6.78,
+    "avg_ticket_price": 41.62,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 166,
+    "title": "摩天营救",
+    "release_date": "2018-07-20",
+    "year": 2018,
+    "box_office_wan": 66982.96,
+    "box_office_yi": 6.7,
+    "avg_ticket_price": 35.19,
+    "avg_audience_per_screen": 17.0
+  },
+  {
+    "rank": 167,
+    "title": "周处除三害",
+    "release_date": "2024-03-01",
+    "year": 2024,
+    "box_office_wan": 66582.88,
+    "box_office_yi": 6.66,
+    "avg_ticket_price": 39.49,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 16893,
+    "title": "国际列车大劫案：莫斯科行动",
+    "release_date": "2023-09-29",
+    "year": 2023,
+    "box_office_wan": 66415.03,
+    "box_office_yi": 6.64,
+    "avg_ticket_price": 42.6,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 169,
+    "title": "灌篮高手",
+    "release_date": "2023-04-20",
+    "year": 2023,
+    "box_office_wan": 66351.22,
+    "box_office_yi": 6.64,
+    "avg_ticket_price": 36.3,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 170,
+    "title": "黑豹",
+    "release_date": "2018-03-09",
+    "year": 2018,
+    "box_office_wan": 66265.95,
+    "box_office_yi": 6.63,
+    "avg_ticket_price": 36.07,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 171,
+    "title": "变形金刚：超能勇士崛起",
+    "release_date": "2023-06-09",
+    "year": 2023,
+    "box_office_wan": 65570.05,
+    "box_office_yi": 6.56,
+    "avg_ticket_price": 37.4,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 172,
+    "title": "志愿军：浴血和平",
+    "release_date": "2025-09-30",
+    "year": 2025,
+    "box_office_wan": 64208.45,
+    "box_office_yi": 6.42,
+    "avg_ticket_price": 37.71,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 173,
+    "title": "来电狂响",
+    "release_date": "2018-12-28",
+    "year": 2018,
+    "box_office_wan": 64144.29,
+    "box_office_yi": 6.41,
+    "avg_ticket_price": 34.94,
+    "avg_audience_per_screen": 13.0
+  },
+  {
+    "rank": 174,
+    "title": "大侦探皮卡丘",
+    "release_date": "2019-05-10",
+    "year": 2019,
+    "box_office_wan": 64069.96,
+    "box_office_yi": 6.41,
+    "avg_ticket_price": 35.45,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 175,
+    "title": "环太平洋：雷霆再起",
+    "release_date": "2018-03-23",
+    "year": 2018,
+    "box_office_wan": 63352.63,
+    "box_office_yi": 6.34,
+    "avg_ticket_price": 35.44,
+    "avg_audience_per_screen": 13.0
+  },
+  {
+    "rank": 176,
+    "title": "影",
+    "release_date": "2018-09-30",
+    "year": 2018,
+    "box_office_wan": 62904.33,
+    "box_office_yi": 6.29,
+    "avg_ticket_price": 35.8,
+    "avg_audience_per_screen": 13.0
+  },
+  {
+    "rank": 177,
+    "title": "反贪风暴5",
+    "release_date": "2021-12-31",
+    "year": 2021,
+    "box_office_wan": 62894.66,
+    "box_office_yi": 6.29,
+    "avg_ticket_price": 40.75,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 178,
+    "title": "新喜剧之王",
+    "release_date": "2019-02-05",
+    "year": 2019,
+    "box_office_wan": 62759.15,
+    "box_office_yi": 6.28,
+    "avg_ticket_price": 42.59,
+    "avg_audience_per_screen": 23.0
+  },
+  {
+    "rank": 179,
+    "title": "新木乃伊",
+    "release_date": "2017-06-09",
+    "year": 2017,
+    "box_office_wan": 62564.21,
+    "box_office_yi": 6.26,
+    "avg_ticket_price": 35.2,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 180,
+    "title": "学爸",
+    "release_date": "2023-08-18",
+    "year": 2023,
+    "box_office_wan": 61436.42,
+    "box_office_yi": 6.14,
+    "avg_ticket_price": 40.66,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 181,
+    "title": "失控玩家",
+    "release_date": "2021-08-27",
+    "year": 2021,
+    "box_office_wan": 61258.3,
+    "box_office_yi": 6.13,
+    "avg_ticket_price": 38.86,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 182,
+    "title": "神奇女侠",
+    "release_date": "2017-06-02",
+    "year": 2017,
+    "box_office_wan": 61014.7,
+    "box_office_yi": 6.1,
+    "avg_ticket_price": 36.3,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 183,
+    "title": "一条狗的使命",
+    "release_date": "2017-03-03",
+    "year": 2017,
+    "box_office_wan": 60891.83,
+    "box_office_yi": 6.09,
+    "avg_ticket_price": 29.97,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 184,
+    "title": "狙击手",
+    "release_date": "2022-02-01",
+    "year": 2022,
+    "box_office_wan": 60806.58,
+    "box_office_yi": 6.08,
+    "avg_ticket_price": 44.77,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 185,
+    "title": "狄仁杰之四大天王",
+    "release_date": "2018-07-27",
+    "year": 2018,
+    "box_office_wan": 60638.44,
+    "box_office_yi": 6.06,
+    "avg_ticket_price": 39.11,
+    "avg_audience_per_screen": 17.0
+  },
+  {
+    "rank": 186,
+    "title": "银河护卫队3",
+    "release_date": "2023-05-05",
+    "year": 2023,
+    "box_office_wan": 60618.81,
+    "box_office_yi": 6.06,
+    "avg_ticket_price": 39.27,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 187,
+    "title": "熊出没·变形记",
+    "release_date": "2018-02-16",
+    "year": 2018,
+    "box_office_wan": 60551.81,
+    "box_office_yi": 6.06,
+    "avg_ticket_price": 35.83,
+    "avg_audience_per_screen": 29.0
+  },
+  {
+    "rank": 188,
+    "title": "李茶的姑妈",
+    "release_date": "2018-09-30",
+    "year": 2018,
+    "box_office_wan": 60471.6,
+    "box_office_yi": 6.05,
+    "avg_ticket_price": 34.7,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 189,
+    "title": "熊出没·狂野大陆",
+    "release_date": "2021-02-12",
+    "year": 2021,
+    "box_office_wan": 59530.31,
+    "box_office_yi": 5.95,
+    "avg_ticket_price": 43.31,
+    "avg_audience_per_screen": 17.0
+  },
+  {
+    "rank": 190,
+    "title": "美女与野兽",
+    "release_date": "2017-03-17",
+    "year": 2017,
+    "box_office_wan": 59165.4,
+    "box_office_yi": 5.92,
+    "avg_ticket_price": 35.08,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 191,
+    "title": "邪不压正",
+    "release_date": "2018-07-13",
+    "year": 2018,
+    "box_office_wan": 58351.82,
+    "box_office_yi": 5.84,
+    "avg_ticket_price": 35.56,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 192,
+    "title": "白蛇2：青蛇劫起",
+    "release_date": "2021-07-23",
+    "year": 2021,
+    "box_office_wan": 58029.45,
+    "box_office_yi": 5.8,
+    "avg_ticket_price": 39.03,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 193,
+    "title": "追龙",
+    "release_date": "2017-09-30",
+    "year": 2017,
+    "box_office_wan": 57725.79,
+    "box_office_yi": 5.77,
+    "avg_ticket_price": 32.49,
+    "avg_audience_per_screen": 19.0
+  },
+  {
+    "rank": 194,
+    "title": "金手指",
+    "release_date": "2023-12-30",
+    "year": 2023,
+    "box_office_wan": 57441.02,
+    "box_office_yi": 5.74,
+    "avg_ticket_price": 40.46,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 195,
+    "title": "拯救嫌疑人",
+    "release_date": "2023-11-01",
+    "year": 2023,
+    "box_office_wan": 56956.61,
+    "box_office_yi": 5.7,
+    "avg_ticket_price": 41.73,
+    "avg_audience_per_screen": 5.0
+  },
+  {
+    "rank": 196,
+    "title": "消失的人",
+    "release_date": "2026-05-01",
+    "year": 2026,
+    "box_office_wan": 56861.39,
+    "box_office_yi": 5.69,
+    "avg_ticket_price": 34.65,
+    "avg_audience_per_screen": 5.0
+  },
+  {
+    "rank": 197,
+    "title": "侏罗纪世界：重生",
+    "release_date": "2025-07-02",
+    "year": 2025,
+    "box_office_wan": 56726.36,
+    "box_office_yi": 5.67,
+    "avg_ticket_price": 40.84,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 198,
+    "title": "新神榜：杨戬",
+    "release_date": "2022-08-19",
+    "year": 2022,
+    "box_office_wan": 55575.22,
+    "box_office_yi": 5.56,
+    "avg_ticket_price": 42.11,
+    "avg_audience_per_screen": 5.0
+  },
+  {
+    "rank": 199,
+    "title": "爱情公寓",
+    "release_date": "2018-08-10",
+    "year": 2018,
+    "box_office_wan": 55547.13,
+    "box_office_yi": 5.55,
+    "avg_ticket_price": 35.35,
+    "avg_audience_per_screen": 27.0
+  },
+  {
+    "rank": 200,
+    "title": "情圣",
+    "release_date": "2016-12-30",
+    "year": 2016,
+    "box_office_wan": 55008.93,
+    "box_office_yi": 5.5,
+    "avg_ticket_price": 31.75,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 201,
+    "title": "涉过愤怒的海",
+    "release_date": "2023-11-25",
+    "year": 2023,
+    "box_office_wan": 54926.59,
+    "box_office_yi": 5.49,
+    "avg_ticket_price": 42.31,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 202,
+    "title": "哥，你好",
+    "release_date": "2022-09-09",
+    "year": 2022,
+    "box_office_wan": 54799.5,
+    "box_office_yi": 5.48,
+    "avg_ticket_price": 41.64,
+    "avg_audience_per_screen": 4.0
+  },
+  {
+    "rank": 203,
+    "title": "四海",
+    "release_date": "2022-02-01",
+    "year": 2022,
+    "box_office_wan": 54278.75,
+    "box_office_yi": 5.43,
+    "avg_ticket_price": 53.1,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 204,
+    "title": "英伦对决",
+    "release_date": "2017-09-30",
+    "year": 2017,
+    "box_office_wan": 53982.66,
+    "box_office_yi": 5.4,
+    "avg_ticket_price": 37.64,
+    "avg_audience_per_screen": 18.0
+  },
+  {
+    "rank": 205,
+    "title": "除暴",
+    "release_date": "2020-11-20",
+    "year": 2020,
+    "box_office_wan": 53823.69,
+    "box_office_yi": 5.38,
+    "avg_ticket_price": 37.09,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 206,
+    "title": "三生三世十里桃花",
+    "release_date": "2017-08-03",
+    "year": 2017,
+    "box_office_wan": 53500.65,
+    "box_office_yi": 5.35,
+    "avg_ticket_price": 35.14,
+    "avg_audience_per_screen": 24.0
+  },
+  {
+    "rank": 207,
+    "title": "罗小黑战记2",
+    "release_date": "2025-07-18",
+    "year": 2025,
+    "box_office_wan": 53390.75,
+    "box_office_yi": 5.34,
+    "avg_ticket_price": 36.42,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 208,
+    "title": "妖猫传",
+    "release_date": "2017-12-22",
+    "year": 2017,
+    "box_office_wan": 53022.95,
+    "box_office_yi": 5.3,
+    "avg_ticket_price": 35.55,
+    "avg_audience_per_screen": 23.0
+  },
+  {
+    "rank": 209,
+    "title": "杀破狼·贪狼",
+    "release_date": "2017-08-17",
+    "year": 2017,
+    "box_office_wan": 52293.14,
+    "box_office_yi": 5.23,
+    "avg_ticket_price": 32.32,
+    "avg_audience_per_screen": 18.0
+  },
+  {
+    "rank": 210,
+    "title": "熊出没·奇幻空间",
+    "release_date": "2017-01-28",
+    "year": 2017,
+    "box_office_wan": 52250.77,
+    "box_office_yi": 5.23,
+    "avg_ticket_price": 34.32,
+    "avg_audience_per_screen": 26.0
+  },
+  {
+    "rank": 211,
+    "title": "匿杀",
+    "release_date": "2025-12-31",
+    "year": 2025,
+    "box_office_wan": 51240.87,
+    "box_office_yi": 5.12,
+    "avg_ticket_price": 36.55,
+    "avg_audience_per_screen": 4.0
+  },
+  {
+    "rank": 212,
+    "title": "维和防暴队",
+    "release_date": "2024-05-01",
+    "year": 2024,
+    "box_office_wan": 51176.0,
+    "box_office_yi": 5.12,
+    "avg_ticket_price": 41.85,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 213,
+    "title": "动物世界",
+    "release_date": "2018-06-29",
+    "year": 2018,
+    "box_office_wan": 50966.96,
+    "box_office_yi": 5.1,
+    "avg_ticket_price": 36.85,
+    "avg_audience_per_screen": 12.0
+  },
+  {
+    "rank": 214,
+    "title": "我在时间尽头等你",
+    "release_date": "2020-08-25",
+    "year": 2020,
+    "box_office_wan": 50542.46,
+    "box_office_yi": 5.05,
+    "avg_ticket_price": 35.25,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 215192,
+    "title": "1",
+    "release_date": "2021-07-01",
+    "year": 2021,
+    "box_office_wan": 50476.4,
+    "box_office_yi": 5.05,
+    "avg_ticket_price": 34.86,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 216,
+    "title": "云边有个小卖部",
+    "release_date": "2024-06-22",
+    "year": 2024,
+    "box_office_wan": 49883.93,
+    "box_office_yi": 4.99,
+    "avg_ticket_price": 40.52,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 217,
+    "title": "古墓丽影：源起之战",
+    "release_date": "2018-03-16",
+    "year": 2018,
+    "box_office_wan": 49782.19,
+    "box_office_yi": 4.98,
+    "avg_ticket_price": 35.08,
+    "avg_audience_per_screen": 13.0
+  },
+  {
+    "rank": 218,
+    "title": "勇敢者游戏：决战丛林",
+    "release_date": "2018-01-12",
+    "year": 2018,
+    "box_office_wan": 49197.81,
+    "box_office_yi": 4.92,
+    "avg_ticket_price": 34.2,
+    "avg_audience_per_screen": 18.0
+  },
+  {
+    "rank": 219,
+    "title": "千与千寻",
+    "release_date": "2019-06-21",
+    "year": 2019,
+    "box_office_wan": 48828.08,
+    "box_office_yi": 4.88,
+    "avg_ticket_price": 31.23,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 220,
+    "title": "紧急救援",
+    "release_date": "2020-12-18",
+    "year": 2020,
+    "box_office_wan": 48525.44,
+    "box_office_yi": 4.85,
+    "avg_ticket_price": 38.62,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 221,
+    "title": "厉害了，我的国",
+    "release_date": "2018-03-02",
+    "year": 2018,
+    "box_office_wan": 48061.75,
+    "box_office_yi": 4.81,
+    "avg_ticket_price": 31.55,
+    "avg_audience_per_screen": 26.0
+  },
+  {
+    "rank": 222,
+    "title": "绿皮书",
+    "release_date": "2019-03-01",
+    "year": 2019,
+    "box_office_wan": 47873.15,
+    "box_office_yi": 4.79,
+    "avg_ticket_price": 33.2,
+    "avg_audience_per_screen": 12.0
+  },
+  {
+    "rank": 223,
+    "title": "星球大战外传：侠盗一号",
+    "release_date": "2017-01-06",
+    "year": 2017,
+    "box_office_wan": 47817.76,
+    "box_office_yi": 4.78,
+    "avg_ticket_price": 36.66,
+    "avg_audience_per_screen": 12.0
+  },
+  {
+    "rank": 224,
+    "title": "王牌特工2：黄金圈",
+    "release_date": "2017-10-20",
+    "year": 2017,
+    "box_office_wan": 47427.43,
+    "box_office_yi": 4.74,
+    "avg_ticket_price": 35.41,
+    "avg_audience_per_screen": 13.0
+  },
+  {
+    "rank": 225,
+    "title": "白蛇：缘起",
+    "release_date": "2019-01-11",
+    "year": 2019,
+    "box_office_wan": 46966.42,
+    "box_office_yi": 4.7,
+    "avg_ticket_price": 33.79,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 226,
+    "title": "海王2：失落的王国",
+    "release_date": "2023-12-20",
+    "year": 2023,
+    "box_office_wan": 46537.84,
+    "box_office_yi": 4.65,
+    "avg_ticket_price": 39.17,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 227,
+    "title": "重生",
+    "release_date": "2024-08-16",
+    "year": 2024,
+    "box_office_wan": 46466.04,
+    "box_office_yi": 4.65,
+    "avg_ticket_price": 41.61,
+    "avg_audience_per_screen": 5.0
+  },
+  {
+    "rank": 228,
+    "title": "碟中谍8：最终清算",
+    "release_date": "2025-05-30",
+    "year": 2025,
+    "box_office_wan": 46443.03,
+    "box_office_yi": 4.64,
+    "avg_ticket_price": 42.12,
+    "avg_audience_per_screen": 5.0
+  },
+  {
+    "rank": 229,
+    "title": "李茂扮太子",
+    "release_date": "2022-01-01",
+    "year": 2022,
+    "box_office_wan": 46241.93,
+    "box_office_yi": 4.62,
+    "avg_ticket_price": 39.04,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 230,
+    "title": "浴火之路",
+    "release_date": "2024-10-01",
+    "year": 2024,
+    "box_office_wan": 46195.46,
+    "box_office_yi": 4.62,
+    "avg_ticket_price": 39.48,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 231,
+    "title": "缝纫机乐队",
+    "release_date": "2017-09-29",
+    "year": 2017,
+    "box_office_wan": 45936.03,
+    "box_office_yi": 4.59,
+    "avg_ticket_price": 32.84,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 232,
+    "title": "浪浪人生",
+    "release_date": "2025-09-30",
+    "year": 2025,
+    "box_office_wan": 45754.12,
+    "box_office_yi": 4.58,
+    "avg_ticket_price": 36.53,
+    "avg_audience_per_screen": 5.0
+  },
+  {
+    "rank": 233,
+    "title": "新神榜：哪吒重生",
+    "release_date": "2021-02-12",
+    "year": 2021,
+    "box_office_wan": 45638.64,
+    "box_office_yi": 4.56,
+    "avg_ticket_price": 43.81,
+    "avg_audience_per_screen": 13.0
+  },
+  {
+    "rank": 234,
+    "title": "信条",
+    "release_date": "2020-09-04",
+    "year": 2020,
+    "box_office_wan": 45624.2,
+    "box_office_yi": 4.56,
+    "avg_ticket_price": 38.89,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 235,
+    "title": "奥本海默",
+    "release_date": "2023-08-30",
+    "year": 2023,
+    "box_office_wan": 45288.48,
+    "box_office_yi": 4.53,
+    "avg_ticket_price": 42.88,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 236,
+    "title": "晴雅集",
+    "release_date": "2020-12-25",
+    "year": 2020,
+    "box_office_wan": 45151.59,
+    "box_office_yi": 4.52,
+    "avg_ticket_price": 37.49,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 237,
+    "title": "F1：狂飙飞车",
+    "release_date": "2025-06-27",
+    "year": 2025,
+    "box_office_wan": 44961.24,
+    "box_office_yi": 4.5,
+    "avg_ticket_price": 49.07,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 238,
+    "title": "“骗骗”喜欢你",
+    "release_date": "2024-12-31",
+    "year": 2024,
+    "box_office_wan": 44586.03,
+    "box_office_yi": 4.46,
+    "avg_ticket_price": 36.11,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 239,
+    "title": "反贪风暴3",
+    "release_date": "2018-09-14",
+    "year": 2018,
+    "box_office_wan": 44329.71,
+    "box_office_yi": 4.43,
+    "avg_ticket_price": 35.91,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 240,
+    "title": "第八个嫌疑人",
+    "release_date": "2023-09-09",
+    "year": 2023,
+    "box_office_wan": 43960.63,
+    "box_office_yi": 4.4,
+    "avg_ticket_price": 42.05,
+    "avg_audience_per_screen": 5.0
+  },
+  {
+    "rank": 241,
+    "title": "峰爆",
+    "release_date": "2021-09-17",
+    "year": 2021,
+    "box_office_wan": 43819.94,
+    "box_office_yi": 4.38,
+    "avg_ticket_price": 37.91,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 242,
+    "title": "全球风暴",
+    "release_date": "2017-10-27",
+    "year": 2017,
+    "box_office_wan": 43403.23,
+    "box_office_yi": 4.34,
+    "avg_ticket_price": 34.57,
+    "avg_audience_per_screen": 13.0
+  },
+  {
+    "rank": 243,
+    "title": "死侍与金刚狼",
+    "release_date": "2024-07-26",
+    "year": 2024,
+    "box_office_wan": 43068.35,
+    "box_office_yi": 4.31,
+    "avg_ticket_price": 43.39,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 244,
+    "title": "古董局中局",
+    "release_date": "2021-12-03",
+    "year": 2021,
+    "box_office_wan": 42995.4,
+    "box_office_yi": 4.3,
+    "avg_ticket_price": 38.09,
+    "avg_audience_per_screen": 5.0
+  },
+  {
+    "rank": 245,
+    "title": "我爱你！",
+    "release_date": "2023-06-21",
+    "year": 2023,
+    "box_office_wan": 42800.24,
+    "box_office_yi": 4.28,
+    "avg_ticket_price": 41.16,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 246,
+    "title": "蜘蛛侠：平行宇宙",
+    "release_date": "2018-12-21",
+    "year": 2018,
+    "box_office_wan": 42758.86,
+    "box_office_yi": 4.28,
+    "avg_ticket_price": 35.81,
+    "avg_audience_per_screen": 12.0
+  },
+  {
+    "rank": 247,
+    "title": "白蛇：浮生",
+    "release_date": "2024-08-10",
+    "year": 2024,
+    "box_office_wan": 42522.49,
+    "box_office_yi": 4.25,
+    "avg_ticket_price": 40.75,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 248,
+    "title": "神偷奶爸4",
+    "release_date": "2024-07-12",
+    "year": 2024,
+    "box_office_wan": 42398.25,
+    "box_office_yi": 4.24,
+    "avg_ticket_price": 39.67,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 249,
+    "title": "水饺皇后",
+    "release_date": "2025-04-30",
+    "year": 2025,
+    "box_office_wan": 41920.57,
+    "box_office_yi": 4.19,
+    "avg_ticket_price": 39.34,
+    "avg_audience_per_screen": 4.0
+  },
+  {
+    "rank": 250,
+    "title": "最好的我们",
+    "release_date": "2019-06-06",
+    "year": 2019,
+    "box_office_wan": 41755.51,
+    "box_office_yi": 4.18,
+    "avg_ticket_price": 32.31,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 251007,
+    "title": "：无暇赴死",
+    "release_date": "2021-10-29",
+    "year": 2021,
+    "box_office_wan": 41454.44,
+    "box_office_yi": 4.15,
+    "avg_ticket_price": 40.36,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 252,
+    "title": "得闲谨制",
+    "release_date": "2025-12-06",
+    "year": 2025,
+    "box_office_wan": 41239.19,
+    "box_office_yi": 4.12,
+    "avg_ticket_price": 35.29,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 253,
+    "title": "戏台",
+    "release_date": "2025-07-25",
+    "year": 2025,
+    "box_office_wan": 41144.97,
+    "box_office_yi": 4.11,
+    "avg_ticket_price": 36.81,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 254,
+    "title": "星际特工：千星之城",
+    "release_date": "2017-08-25",
+    "year": 2017,
+    "box_office_wan": 40960.12,
+    "box_office_yi": 4.1,
+    "avg_ticket_price": 35.13,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 255,
+    "title": "X战警：黑凤凰",
+    "release_date": "2019-06-06",
+    "year": 2019,
+    "box_office_wan": 40924.45,
+    "box_office_yi": 4.09,
+    "avg_ticket_price": 36.73,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 256,
+    "title": "建军大业",
+    "release_date": "2017-07-27",
+    "year": 2017,
+    "box_office_wan": 40745.77,
+    "box_office_yi": 4.07,
+    "avg_ticket_price": 32.92,
+    "avg_audience_per_screen": 17.0
+  },
+  {
+    "rank": 257,
+    "title": "扫黑·决战",
+    "release_date": "2021-05-01",
+    "year": 2021,
+    "box_office_wan": 40548.32,
+    "box_office_yi": 4.05,
+    "avg_ticket_price": 33.7,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 258,
+    "title": "诛仙Ⅰ",
+    "release_date": "2019-09-13",
+    "year": 2019,
+    "box_office_wan": 40502.46,
+    "box_office_yi": 4.05,
+    "avg_ticket_price": 36.14,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 259,
+    "title": "沐浴之王",
+    "release_date": "2020-12-11",
+    "year": 2020,
+    "box_office_wan": 40498.86,
+    "box_office_yi": 4.05,
+    "avg_ticket_price": 34.22,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 260,
+    "title": "想见你",
+    "release_date": "2022-12-24",
+    "year": 2022,
+    "box_office_wan": 40361.53,
+    "box_office_yi": 4.04,
+    "avg_ticket_price": 41.29,
+    "avg_audience_per_screen": 4.0
+  },
+  {
+    "rank": 261,
+    "title": "嫌疑人X的献身",
+    "release_date": "2017-03-31",
+    "year": 2017,
+    "box_office_wan": 40203.65,
+    "box_office_yi": 4.02,
+    "avg_ticket_price": 33.72,
+    "avg_audience_per_screen": 15.0
+  },
+  {
+    "rank": 262,
+    "title": "拆弹·专家",
+    "release_date": "2017-04-28",
+    "year": 2017,
+    "box_office_wan": 40054.78,
+    "box_office_yi": 4.01,
+    "avg_ticket_price": 32.5,
+    "avg_audience_per_screen": 19.0
+  },
+  {
+    "rank": 263,
+    "title": "神奇动物：格林德沃之罪",
+    "release_date": "2018-11-16",
+    "year": 2018,
+    "box_office_wan": 39890.43,
+    "box_office_yi": 3.99,
+    "avg_ticket_price": 37.62,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 264,
+    "title": "名侦探柯南：独眼的残像",
+    "release_date": "2025-06-27",
+    "year": 2025,
+    "box_office_wan": 39838.55,
+    "box_office_yi": 3.98,
+    "avg_ticket_price": 38.07,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 265,
+    "title": "东极岛",
+    "release_date": "2025-08-08",
+    "year": 2025,
+    "box_office_wan": 39685.26,
+    "box_office_yi": 3.97,
+    "avg_ticket_price": 36.37,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 266,
+    "title": "蛟龙行动",
+    "release_date": "2025-01-29",
+    "year": 2025,
+    "box_office_wan": 39378.13,
+    "box_office_yi": 3.94,
+    "avg_ticket_price": 50.36,
+    "avg_audience_per_screen": 18.0
+  },
+  {
+    "rank": 267,
+    "title": "交换人生",
+    "release_date": "2023-01-22",
+    "year": 2023,
+    "box_office_wan": 39346.51,
+    "box_office_yi": 3.93,
+    "avg_ticket_price": 49.59,
+    "avg_audience_per_screen": 12.0
+  },
+  {
+    "rank": 268,
+    "title": "潜行",
+    "release_date": "2023-12-29",
+    "year": 2023,
+    "box_office_wan": 39003.94,
+    "box_office_yi": 3.9,
+    "avg_ticket_price": 39.62,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 269,
+    "title": "刺杀小说家2",
+    "release_date": "2025-10-01",
+    "year": 2025,
+    "box_office_wan": 38891.06,
+    "box_office_yi": 3.89,
+    "avg_ticket_price": 38.86,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 270,
+    "title": "盛夏未来",
+    "release_date": "2021-07-30",
+    "year": 2021,
+    "box_office_wan": 38684.9,
+    "box_office_yi": 3.87,
+    "avg_ticket_price": 37.11,
+    "avg_audience_per_screen": 5.0
+  },
+  {
+    "rank": 271,
+    "title": "茶啊二中",
+    "release_date": "2023-07-14",
+    "year": 2023,
+    "box_office_wan": 38424.45,
+    "box_office_yi": 3.84,
+    "avg_ticket_price": 40.07,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 272,
+    "title": "我要我们在一起",
+    "release_date": "2021-05-20",
+    "year": 2021,
+    "box_office_wan": 38172.48,
+    "box_office_yi": 3.82,
+    "avg_ticket_price": 36.37,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 273,
+    "title": "“大”人物",
+    "release_date": "2019-01-10",
+    "year": 2019,
+    "box_office_wan": 38095.99,
+    "box_office_yi": 3.81,
+    "avg_ticket_price": 36.18,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 274,
+    "title": "何以为家",
+    "release_date": "2019-04-29",
+    "year": 2019,
+    "box_office_wan": 37697.72,
+    "box_office_yi": 3.77,
+    "avg_ticket_price": 31.33,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 275,
+    "title": "心灵奇旅",
+    "release_date": "2020-12-25",
+    "year": 2020,
+    "box_office_wan": 37618.35,
+    "box_office_yi": 3.76,
+    "avg_ticket_price": 37.6,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 276,
+    "title": "阿凡达",
+    "release_date": "2010-01-04",
+    "year": 2010,
+    "box_office_wan": 37600.56,
+    "box_office_yi": 3.76,
+    "avg_ticket_price": 34.89,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 278749,
+    "title": "局",
+    "release_date": "2024-10-01",
+    "year": 2024,
+    "box_office_wan": 37572.7,
+    "box_office_yi": 3.76,
+    "avg_ticket_price": 41.16,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 279,
+    "title": "快把我哥带走",
+    "release_date": "2018-08-17",
+    "year": 2018,
+    "box_office_wan": 37539.51,
+    "box_office_yi": 3.75,
+    "avg_ticket_price": 32.39,
+    "avg_audience_per_screen": 14.0
+  },
+  {
+    "rank": 280,
+    "title": "酱园弄·悬案",
+    "release_date": "2025-06-21",
+    "year": 2025,
+    "box_office_wan": 37521.0,
+    "box_office_yi": 3.75,
+    "avg_ticket_price": 37.77,
+    "avg_audience_per_screen": 5.0
+  },
+  {
+    "rank": 281,
+    "title": "功夫熊猫4",
+    "release_date": "2024-03-22",
+    "year": 2024,
+    "box_office_wan": 37372.36,
+    "box_office_yi": 3.74,
+    "avg_ticket_price": 40.59,
+    "avg_audience_per_screen": 5.0
+  },
+  {
+    "rank": 282,
+    "title": "阿拉丁",
+    "release_date": "2019-05-24",
+    "year": 2019,
+    "box_office_wan": 36816.8,
+    "box_office_yi": 3.68,
+    "avg_ticket_price": 36.58,
+    "avg_audience_per_screen": 9.0
+  },
+  {
+    "rank": 283,
+    "title": "驯龙高手3",
+    "release_date": "2019-03-01",
+    "year": 2019,
+    "box_office_wan": 36797.34,
+    "box_office_yi": 3.68,
+    "avg_ticket_price": 35.66,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 284,
+    "title": "妖铃铃",
+    "release_date": "2017-12-29",
+    "year": 2017,
+    "box_office_wan": 36317.53,
+    "box_office_yi": 3.63,
+    "avg_ticket_price": 34.54,
+    "avg_audience_per_screen": 20.0
+  },
+  {
+    "rank": 285,
+    "title": "逆行人生",
+    "release_date": "2024-08-09",
+    "year": 2024,
+    "box_office_wan": 35927.08,
+    "box_office_yi": 3.59,
+    "avg_ticket_price": 41.67,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 286,
+    "title": "幕后玩家",
+    "release_date": "2018-04-28",
+    "year": 2018,
+    "box_office_wan": 35861.47,
+    "box_office_yi": 3.59,
+    "avg_ticket_price": 35.48,
+    "avg_audience_per_screen": 12.0
+  },
+  {
+    "rank": 287,
+    "title": "悲伤逆流成河",
+    "release_date": "2018-09-21",
+    "year": 2018,
+    "box_office_wan": 35751.44,
+    "box_office_yi": 3.58,
+    "avg_ticket_price": 33.54,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 288,
+    "title": "蜘蛛侠：纵横宇宙",
+    "release_date": "2023-06-02",
+    "year": 2023,
+    "box_office_wan": 35707.31,
+    "box_office_yi": 3.57,
+    "avg_ticket_price": 35.87,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 289,
+    "title": "老师·好",
+    "release_date": "2019-03-22",
+    "year": 2019,
+    "box_office_wan": 35567.41,
+    "box_office_yi": 3.56,
+    "avg_ticket_price": 34.19,
+    "avg_audience_per_screen": 8.0
+  },
+  {
+    "rank": 290,
+    "title": "终结者：黑暗命运",
+    "release_date": "2019-11-01",
+    "year": 2019,
+    "box_office_wan": 35533.19,
+    "box_office_yi": 3.55,
+    "avg_ticket_price": 33.22,
+    "avg_audience_per_screen": 10.0
+  },
+  {
+    "rank": 291,
+    "title": "超人总动员2",
+    "release_date": "2018-06-22",
+    "year": 2018,
+    "box_office_wan": 35438.42,
+    "box_office_yi": 3.54,
+    "avg_ticket_price": 34.65,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 292,
+    "title": "疯狂原始人2",
+    "release_date": "2020-11-27",
+    "year": 2020,
+    "box_office_wan": 35302.94,
+    "box_office_yi": 3.53,
+    "avg_ticket_price": 35.0,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 293,
+    "title": "沙丘2",
+    "release_date": "2024-03-08",
+    "year": 2024,
+    "box_office_wan": 35269.34,
+    "box_office_yi": 3.53,
+    "avg_ticket_price": 47.82,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 294,
+    "title": "碟中谍7：致命清算（上）",
+    "release_date": "2023-07-14",
+    "year": 2023,
+    "box_office_wan": 34915.0,
+    "box_office_yi": 3.49,
+    "avg_ticket_price": 39.62,
+    "avg_audience_per_screen": 16.0
+  },
+  {
+    "rank": 295,
+    "title": "沉睡魔咒2",
+    "release_date": "2019-10-18",
+    "year": 2019,
+    "box_office_wan": 34616.35,
+    "box_office_yi": 3.46,
+    "avg_ticket_price": 35.14,
+    "avg_audience_per_screen": 11.0
+  },
+  {
+    "rank": 296,
+    "title": "头脑特工队2",
+    "release_date": "2024-06-21",
+    "year": 2024,
+    "box_office_wan": 34452.65,
+    "box_office_yi": 3.45,
+    "avg_ticket_price": 40.96,
+    "avg_audience_per_screen": 6.0
+  },
+  {
+    "rank": 297,
+    "title": "敦刻尔克",
+    "release_date": "2017-09-01",
+    "year": 2017,
+    "box_office_wan": 33996.62,
+    "box_office_yi": 3.4,
+    "avg_ticket_price": 34.25,
+    "avg_audience_per_screen": 12.0
+  },
+  {
+    "rank": 298,
+    "title": "坏蛋联盟",
+    "release_date": "2022-04-29",
+    "year": 2022,
+    "box_office_wan": 33524.92,
+    "box_office_yi": 3.35,
+    "avg_ticket_price": 33.78,
+    "avg_audience_per_screen": 4.0
+  },
+  {
+    "rank": 299,
+    "title": "如果声音不记得",
+    "release_date": "2020-12-04",
+    "year": 2020,
+    "box_office_wan": 33480.01,
+    "box_office_yi": 3.35,
+    "avg_ticket_price": 35.75,
+    "avg_audience_per_screen": 7.0
+  },
+  {
+    "rank": 300,
+    "title": "解密",
+    "release_date": "2024-08-03",
+    "year": 2024,
+    "box_office_wan": 33461.71,
+    "box_office_yi": 3.35,
+    "avg_ticket_price": 42.14,
+    "avg_audience_per_screen": 7.0
+  }
+]
